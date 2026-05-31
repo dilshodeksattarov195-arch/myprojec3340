@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpncrypt",
+        "uuid": 16833600,
+        "checksum": "3g6jqd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
